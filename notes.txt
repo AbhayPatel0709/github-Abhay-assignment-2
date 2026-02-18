@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is second file notes
+=======
+this is second file notes
+>>>>>>> 2afc6ea09a0c81f44481ba92b4f5c13c26abd4c8
